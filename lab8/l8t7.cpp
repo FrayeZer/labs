@@ -55,5 +55,5 @@ int main() {
     happy(123, 321); // Happy
     happy(123, 456); // Sad
 
-    return 0;
+    return 0;   
 }
